@@ -44,7 +44,7 @@ JARVIS is a **voice-controlled desktop AI assistant** — inspired by Tony Stark
 | Category | Capability |
 |---|---|
 | 🗣️ **Voice Wake Word** | Activates on "Jarvis", "Hey Jarvis", "Ok Jarvis" |
-| 🧠 **AI Brain** | Groq Llama 3.3-70B — fast, smart, free |
+| 🧠 **AI Brain** | Groq Llama 3.3-70B-versatile ,fast, smart, free |
 | 🖥️ **App Control** | Opens 30+ Windows apps by voice |
 | 🌐 **Web Control** | Search Google, open any website |
 | 📧 **Gmail** | Compose & send emails by voice |
